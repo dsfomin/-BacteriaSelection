@@ -1,2 +1,1 @@
-# BacteriaSelection
- Bacteria selection in Unity
+# NaturalSelectionUnity
